@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=USB_ULPI_OSC Pin=R36-1
+Removed Pin From Net: NetName=USB_ULPI_OSC_R Pin=R36-2
+Removed Pin From Net: NetName=FPGA_CLK Pin=R37-1
+Removed Pin From Net: NetName=FPGA_CLK_R Pin=R37-2
+Removed Pin From Net: NetName=DDR2_CLK Pin=R38-1
+Removed Pin From Net: NetName=DDR2_CLK_R Pin=R38-2
+Added Component: Designator=R36(RES_0201)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES_0201)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R38(RES_0201)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_ULPI_OSC_R Pin=R36-1
+Added Pin To Net: NetName=USB_ULPI_OSC Pin=R36-2
+Added Pin To Net: NetName=FPGA_CLK_R Pin=R37-1
+Added Pin To Net: NetName=FPGA_CLK Pin=R37-2
+Added Pin To Net: NetName=DDR2_CLK_R Pin=R38-1
+Added Pin To Net: NetName=DDR2_CLK Pin=R38-2

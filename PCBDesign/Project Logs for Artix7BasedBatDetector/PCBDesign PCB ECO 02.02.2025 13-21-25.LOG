@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=ADC_IN1_P Pin=IC9-6
+Removed Pin From Net: NetName=ADC_IN1_P Pin=IC9-7
+Removed Pin From Net: NetName=ADC_IN1_N Pin=IC9-8
+Removed Pin From Net: NetName=ADC_IN2_P Pin=IC10-6
+Removed Pin From Net: NetName=ADC_IN2_P Pin=IC10-7
+Removed Pin From Net: NetName=ADC_IN2_N Pin=IC10-8
+Removed Pin From Net: NetName=ADC_IN1_N Pin=R48-2
+Removed Pin From Net: NetName=ADC_IN2_N Pin=R56-2
+Added Pin To Net: NetName=ADC_IN2_P Pin=IC9-6
+Added Pin To Net: NetName=ADC_IN2_P Pin=IC9-7
+Added Pin To Net: NetName=ADC_IN2_N Pin=IC9-8
+Added Pin To Net: NetName=ADC_IN1_P Pin=IC10-6
+Added Pin To Net: NetName=ADC_IN1_P Pin=IC10-7
+Added Pin To Net: NetName=ADC_IN1_N Pin=IC10-8
+Added Pin To Net: NetName=ADC_IN2_N Pin=R48-2
+Added Pin To Net: NetName=ADC_IN1_N Pin=R56-2
+Change Net Name : Old Net Name=MIC_IN1 New Net Name=MIC_IN2
+Change Net Name : Old Net Name=MIC_IN2 New Net Name=MIC_IN1
+Change Net Name : Old Net Name=VBIAS1 New Net Name=VBIAS2
+Change Net Name : Old Net Name=VBIAS2 New Net Name=VBIAS1

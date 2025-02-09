@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=DDR2_DQ2 Pin=IC4-K6
+Added Pin To Net: NetName=DDR2_DQ2 Pin=IC4-L6

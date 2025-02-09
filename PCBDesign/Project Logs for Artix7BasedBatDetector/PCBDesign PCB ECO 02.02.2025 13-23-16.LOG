@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC134_1 Pin=IC9-5
+Removed Pin From Net: NetName=ADC_IN2_P Pin=IC9-6
+Removed Pin From Net: NetName=ADC_IN2_P Pin=IC9-7
+Removed Pin From Net: NetName=ADC_IN2_N Pin=IC9-8
+Removed Pin From Net: NetName=VBIAS2 Pin=IC9-10
+Added Pin To Net: NetName=VBIAS2 Pin=IC9-5
+Added Pin To Net: NetName=ADC_IN2_N Pin=IC9-7
+Added Pin To Net: NetName=ADC_IN2_P Pin=IC9-8
+Added Pin To Net: NetName=ADC_IN2_P Pin=IC9-9
+Added Pin To Net: NetName=NetC134_1 Pin=IC9-10
+Added Pin To Net: NetName=NetIC9_6 Pin=IC9-6
+Added Pin To Net: NetName=NetIC9_6 Pin=R45-2
+Added Pin To Net: NetName=NetIC9_6 Pin=R48-1
+Added Net: Name=NetIC9_6

@@ -1,0 +1,33 @@
+Removed Member From Class: ClassName=USBULPI Member=C92
+Removed Member From Class: ClassName=USBULPI Member=C93
+Removed Member From Class: ClassName=FPGABank3X Member=C98
+Removed Member From Class: ClassName=FPGABank3X Member=C99
+Removed Member From Class: ClassName=DDR2Module Member=C100
+Removed Member From Class: ClassName=DDR2Module Member=C101
+Removed Member From Class: ClassName=AudioADC Member=C110
+Removed Member From Class: ClassName=AudioADC Member=C111
+Removed Member From Class: ClassName=AnalogFrontend Member=C125
+Added Pin To Net: NetName=+3V3 Pin=IC5-5
+Added Pin To Net: NetName=+3V3 Pin=IC5-9
+Added Member To Class: ClassName=FTDIJtagConversion Member=Component C82 470n
+Added Member To Class: ClassName=FTDIJtagConversion Member=Component C84 470n
+Added Member To Class: ClassName=FTDIJtagConversion Member=Component C92 C0402
+Added Member To Class: ClassName=FTDIJtagConversion Member=Component C93 470n
+Added Member To Class: ClassName=USBULPI Member=Component C98 4u7
+Added Member To Class: ClassName=USBULPI Member=Component C99 470n
+Added Member To Class: ClassName=FPGABank3X Member=Component C100 470n
+Added Member To Class: ClassName=FPGABank3X Member=Component C101 470n
+Added Member To Class: ClassName=DDR2Module Member=Component C110 470n
+Added Member To Class: ClassName=DDR2Module Member=Component C111 470n
+Added Member To Class: ClassName=AudioADC Member=Component C113 10u
+Added Member To Class: ClassName=AudioADC Member=Component C114 4u7
+Added Member To Class: ClassName=AudioADC Member=Component C126 1u
+Added Member To Class: ClassName=AudioADC Member=Component C127 1u
+Added Member To Class: ClassName=AnalogFrontend Member=Component C133 470p
+Added Member To Class: ClassName=AnalogFrontend Member=Component C134 100n
+Added Member To Class: ClassName=AnalogFrontend Member=Component C140 100n
+Added Member To Class: ClassName=AnalogFrontend Member=Component C141 470p
+Added Member To Class: ClassName=AnalogFrontend Member=Component C143 1u
+Added Member To Class: ClassName=USBULPI Member=Component FB2 120R @ 100 MHz
+Added Member To Class: ClassName=FPGABank3X Member=Component FB3 120R @ 100 MHz
+Added Member To Class: ClassName=AudioADC Member=Component FB5 120R @ 100MHz

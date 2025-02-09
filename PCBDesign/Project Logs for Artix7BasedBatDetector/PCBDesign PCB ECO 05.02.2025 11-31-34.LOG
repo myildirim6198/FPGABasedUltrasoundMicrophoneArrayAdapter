@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+3V3 Pin=C66-2
+Removed Pin From Net: NetName=+3V3 Pin=C67-2
+Removed Pin From Net: NetName=+3V3 Pin=C68-2
+Removed Pin From Net: NetName=+3V3 Pin=C69-2
+Removed Pin From Net: NetName=+3V3 Pin=C70-2
+Removed Pin From Net: NetName=+3V3 Pin=C71-2
+Removed Pin From Net: NetName=+3V3 Pin=C72-2
+Added Pin To Net: NetName=+1V8 Pin=C66-2
+Added Pin To Net: NetName=+1V8 Pin=C67-2
+Added Pin To Net: NetName=+1V8 Pin=C68-2
+Added Pin To Net: NetName=+1V8 Pin=C69-2
+Added Pin To Net: NetName=+1V8 Pin=C70-2
+Added Pin To Net: NetName=+1V8 Pin=C71-2
+Added Pin To Net: NetName=+1V8 Pin=C72-2

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=ULPI_NXT Pin=IC4-G17
+Added Pin To Net: NetName=ULPI_DIR Pin=IC4-H15
+Added Pin To Net: NetName=ULPI_STP Pin=IC4-H16
+Added Pin To Net: NetName=USB_NRESET_R Pin=IC4-J17

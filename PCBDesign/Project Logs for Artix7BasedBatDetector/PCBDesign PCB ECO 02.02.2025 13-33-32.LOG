@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=ADC_IN2_P Pin=IC9-1
+Added Pin To Net: NetName=ADC_IN2_P Pin=IC9-2
+Added Pin To Net: NetName=NetC134_1 Pin=IC9-3
+Added Pin To Net: NetName=VBIAS2 Pin=IC9-12
+Added Pin To Net: NetName=ADC_IN2_N Pin=IC9-14
+Added Pin To Net: NetName=NetIC9_13 Pin=IC9-13
+Added Pin To Net: NetName=NetIC9_13 Pin=R45-2
+Added Pin To Net: NetName=NetIC9_13 Pin=R48-1
+Added Net: Name=NetIC9_13

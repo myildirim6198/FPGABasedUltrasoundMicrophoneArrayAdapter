@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=ADC_SDOUT Pin=IC4-B11
+Added Pin To Net: NetName=ADC_BCLK Pin=IC4-B12
+Added Pin To Net: NetName=ADC_FSYNC Pin=IC4-B13

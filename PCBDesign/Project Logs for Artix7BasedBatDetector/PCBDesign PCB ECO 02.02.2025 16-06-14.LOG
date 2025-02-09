@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=GND Pin=C100-1
+Removed Pin From Net: NetName=NetC100_2 Pin=C100-2
+Removed Pin From Net: NetName=+3V3 Pin=FB3-1
+Removed Pin From Net: NetName=NetC100_2 Pin=FB3-2
+Removed Pin From Net: NetName=FPGA_CLK_R Pin=R35-1
+Removed Pin From Net: NetName=FPGA_CLK Pin=R35-2
+Removed Pin From Net: NetName=NetC100_2 Pin=X3-1
+Removed Pin From Net: NetName=GND Pin=X3-2
+Removed Pin From Net: NetName=FPGA_CLK_R Pin=X3-3
+Removed Pin From Net: NetName=NetC100_2 Pin=X3-4
+Removed Member From Class: ClassName=FPGABank3X Member=C101
+Removed Member From Class: ClassName=FPGABank3X Member=FB4
+Removed Member From Class: ClassName=DDR2Module Member=R34
+Removed Member From Class: ClassName=FPGABank3X Member=R34
+Removed Member From Class: ClassName=DDR2Module Member=R35
+Removed Member From Class: ClassName=FPGABank3X Member=X4
+Added Component: Designator=C100(CAP_0201)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FB3(IND_0201)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://psearch.en.murata.com/inductor/product/LQP03HQ56NH02%23.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LQP03HQ56NH02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-LQP03HQ56NH02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/LQP03HQ56NH02D?qs=B6kkDfuK7%2FBQu1Ob9%2FT2Bg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R35(RES_0201)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X3(XTAL_2520)
+Add component (AddParameter): Name = "Manufacturer"; Value = "ECS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ECS-2520MV-130-BN-TR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C100-1
+Added Pin To Net: NetName=NetC100_2 Pin=C100-2
+Added Pin To Net: NetName=+3V3 Pin=FB3-1
+Added Pin To Net: NetName=NetC100_2 Pin=FB3-2
+Added Pin To Net: NetName=FPGA_CLK_R Pin=R35-1
+Added Pin To Net: NetName=FPGA_CLK Pin=R35-2
+Added Pin To Net: NetName=NetC100_2 Pin=X3-1
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Pin To Net: NetName=FPGA_CLK_R Pin=X3-3
+Added Pin To Net: NetName=NetC100_2 Pin=X3-4
+Change Class Name : Old Net Name=FPGABank3X New Net Name=FPGABank1X
+Added Class: Name=FPGABank3X
+Added Member To Class: ClassName=FPGABank1X Member=Component IC4 XC7A100T-2CSG324I
+Added Member To Class: ClassName=PowerSupplies Member=Component R7 100k
+Added Member To Class: ClassName=PowerSupplies Member=Component R8 100k
+Added Member To Class: ClassName=PowerSupplies Member=Component R10 200k
+Added Member To Class: ClassName=PowerSupplies Member=Component R12 100k
+Added Member To Class: ClassName=PowerSupplies Member=Component R13 0R
+Added Member To Class: ClassName=FPGAConfig Member=Component R14 4k7
+Added Member To Class: ClassName=DDR2Module Member=Component R37 10k
+Added Member To Class: ClassName=DDR2Module Member=Component R38 10k
+Added Member To Class: ClassName=AnalogFrontend Member=Component R55 1Meg
+Added Member To Class: ClassName=AnalogFrontend Member=Component R56 1k5

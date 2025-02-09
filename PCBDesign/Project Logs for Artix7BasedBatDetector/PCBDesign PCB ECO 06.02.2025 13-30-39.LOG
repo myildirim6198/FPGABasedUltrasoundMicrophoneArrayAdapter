@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=DDR2_DQ9 Pin=IC4-R3
+Added Pin To Net: NetName=DDR2_DQ14 Pin=IC4-T4
+Added Pin To Net: NetName=DDR2_DQ12 Pin=IC4-T5
+Added Pin To Net: NetName=DDR2_DQ13 Pin=IC4-U1
+Added Pin To Net: NetName=DDR2_UDM Pin=IC4-U3
+Added Pin To Net: NetName=DDR2_DQ11 Pin=IC4-U4
+Added Pin To Net: NetName=DDR2_DQ10 Pin=IC4-V1
+Added Pin To Net: NetName=DDR2_DQ8 Pin=IC4-V4
+Added Pin To Net: NetName=DDR2_DQ15 Pin=IC4-V5

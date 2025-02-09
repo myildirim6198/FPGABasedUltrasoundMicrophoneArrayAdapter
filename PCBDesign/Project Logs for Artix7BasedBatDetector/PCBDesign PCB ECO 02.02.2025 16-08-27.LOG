@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=NetC101_2 New Net Name=+1V8DDR2
+Added Member To Class: ClassName=FPGABank1X Member=Component C100 470n
+Added Member To Class: ClassName=FPGABank1X Member=Component FB3 120R @ 100 MHz
+Added Member To Class: ClassName=FPGABank1X Member=Component R35 22R
+Added Member To Class: ClassName=FPGABank1X Member=Component X3 ECS-2520MV-1000-BN-TR
+Added Rule: Name=Schematic Supply Nets_12

@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetC129_2 Pin=IC9-1
+Removed Pin From Net: NetName=NetC132_1 Pin=IC9-3
+Removed Pin From Net: NetName=+1V65BIAS Pin=IC9-12
+Removed Pin From Net: NetName=VBIAS1 Pin=IC9-13
+Removed Pin From Net: NetName=VBIAS1 Pin=IC9-14
+Removed Pin From Net: NetName=NetC137_2 Pin=IC10-1
+Removed Pin From Net: NetName=NetC140_1 Pin=IC10-3
+Removed Pin From Net: NetName=+1V65BIAS Pin=IC10-12
+Removed Pin From Net: NetName=VBIAS2 Pin=IC10-13
+Removed Pin From Net: NetName=VBIAS2 Pin=IC10-14
+Added Pin To Net: NetName=VBIAS1 Pin=IC9-1
+Added Pin To Net: NetName=VBIAS1 Pin=IC9-2
+Added Pin To Net: NetName=+1V65BIAS Pin=IC9-3
+Added Pin To Net: NetName=NetC132_1 Pin=IC9-12
+Added Pin To Net: NetName=NetC129_2 Pin=IC9-14
+Added Pin To Net: NetName=VBIAS2 Pin=IC10-1
+Added Pin To Net: NetName=VBIAS2 Pin=IC10-2
+Added Pin To Net: NetName=+1V65BIAS Pin=IC10-3
+Added Pin To Net: NetName=NetC140_1 Pin=IC10-12
+Added Pin To Net: NetName=NetC137_2 Pin=IC10-14
+Added Pin To Net: NetName=NetIC9_13 Pin=IC9-13
+Added Pin To Net: NetName=NetIC9_13 Pin=R51-2
+Added Pin To Net: NetName=NetIC9_13 Pin=R52-1
+Added Net: Name=NetIC9_13
+Added Pin To Net: NetName=NetIC10_13 Pin=IC10-13
+Added Pin To Net: NetName=NetIC10_13 Pin=R59-2
+Added Pin To Net: NetName=NetIC10_13 Pin=R60-1
+Added Net: Name=NetIC10_13
+Added Member To Class: ClassName=AnalogFrontend Member=Component C133 470p
+Added Member To Class: ClassName=AnalogFrontend Member=Component C141 470p

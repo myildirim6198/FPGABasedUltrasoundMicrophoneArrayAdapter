@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=ADC_GPIO1 Pin=IC4-A14
+Added Pin To Net: NetName=ADC_SDA Pin=IC4-A15
+Added Pin To Net: NetName=ADC_SCL Pin=IC4-A16

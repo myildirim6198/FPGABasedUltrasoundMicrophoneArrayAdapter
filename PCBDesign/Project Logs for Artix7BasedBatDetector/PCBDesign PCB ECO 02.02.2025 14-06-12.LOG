@@ -1,0 +1,73 @@
+Removed Member From Class: ClassName=AudioADC Member=C134
+Removed Member From Class: ClassName=AudioADC Member=C141
+Change Component Designator: OldDesignator=C128 NewDesignator=C129
+Change Component Designator: OldDesignator=C129 NewDesignator=C130
+Change Component Designator: OldDesignator=C130 NewDesignator=C131
+Change Component Designator: OldDesignator=C131 NewDesignator=C132
+Change Component Designator: OldDesignator=C132 NewDesignator=C133
+Change Component Designator: OldDesignator=C133 NewDesignator=C134
+Change Component Designator: OldDesignator=C134 NewDesignator=C135
+Change Component Designator: OldDesignator=C135 NewDesignator=C136
+Change Component Designator: OldDesignator=C136 NewDesignator=C137
+Change Component Designator: OldDesignator=C137 NewDesignator=C138
+Change Component Designator: OldDesignator=C138 NewDesignator=C139
+Change Component Designator: OldDesignator=C139 NewDesignator=C140
+Change Component Designator: OldDesignator=C140 NewDesignator=C141
+Change Component Designator: OldDesignator=C141 NewDesignator=C142
+Change Component Designator: OldDesignator=C142 NewDesignator=C143
+Change Component Designator: OldDesignator=C143 NewDesignator=C144
+Change Component Designator: OldDesignator=C144 NewDesignator=C145
+Change Component Designator: OldDesignator=C145 NewDesignator=C146
+Change Component Designator: OldDesignator=C146 NewDesignator=C147
+Added Component: Designator=C128(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C128-1
+Change Net Name : Old Net Name=NetC131_1 New Net Name=NetC132_1
+Change Net Name : Old Net Name=NetC131_2 New Net Name=NetC132_2
+Change Net Name : Old Net Name=NetC134_1 New Net Name=NetC135_1
+Change Net Name : Old Net Name=NetC134_2 New Net Name=NetC135_2
+Change Net Name : Old Net Name=NetC136_1 New Net Name=NetC137_1
+Change Net Name : Old Net Name=NetC137_2 New Net Name=NetC138_2
+Change Net Name : Old Net Name=NetC139_1 New Net Name=NetC140_1
+Change Net Name : Old Net Name=NetC139_2 New Net Name=NetC140_2
+Change Net Name : Old Net Name=NetC142_1 New Net Name=NetC143_1
+Change Net Name : Old Net Name=NetC142_2 New Net Name=NetC143_2
+Change Net Name : Old Net Name=NetC144_1 New Net Name=NetC145_1
+Change Net Name : Old Net Name=NetC145_2 New Net Name=NetC146_2
+Added Pin To Net: NetName=MICBIAS_GPI2 Pin=C128-2
+Added Pin To Net: NetName=MICBIAS_GPI2 Pin=IC8-19
+Added Net: Name=MICBIAS_GPI2
+Added Member To Class: ClassName=AudioADC Member=Component C115 10u
+Added Member To Class: ClassName=AudioADC Member=Component C116 10u
+Added Member To Class: ClassName=AudioADC Member=Component C117 4u7
+Added Member To Class: ClassName=AudioADC Member=Component C118 470n
+Added Member To Class: ClassName=AudioADC Member=Component C119 4u7
+Added Member To Class: ClassName=AudioADC Member=Component C120 470n
+Added Member To Class: ClassName=AudioADC Member=Component C121 470n
+Added Member To Class: ClassName=AudioADC Member=Component C122 4u7
+Added Member To Class: ClassName=AudioADC Member=Component C123 470n
+Added Member To Class: ClassName=AudioADC Member=Component C124 4u7
+Added Member To Class: ClassName=AudioADC Member=Component C125 4u7
+Added Member To Class: ClassName=AudioADC Member=Component C126 1u
+Added Member To Class: ClassName=AudioADC Member=Component C127 1u
+Added Member To Class: ClassName=AudioADC Member=Component C128 4u7
+Added Member To Class: ClassName=AudioADC Member=Component C129 1u
+Added Member To Class: ClassName=AudioADC Member=Component C130 1u
+Added Member To Class: ClassName=AnalogFrontend Member=Component C131 470n
+Added Member To Class: ClassName=AnalogFrontend Member=Component C132 100n
+Added Member To Class: ClassName=AnalogFrontend Member=Component C133 4u7
+Added Member To Class: ClassName=AnalogFrontend Member=Component C135 100n
+Added Member To Class: ClassName=AnalogFrontend Member=Component C136 470p
+Added Member To Class: ClassName=AnalogFrontend Member=Component C137 100n
+Added Member To Class: ClassName=AnalogFrontend Member=Component C138 1u
+Added Member To Class: ClassName=AnalogFrontend Member=Component C139 470n
+Added Member To Class: ClassName=AnalogFrontend Member=Component C140 100n
+Added Member To Class: ClassName=AnalogFrontend Member=Component C142 470n
+Added Member To Class: ClassName=AnalogFrontend Member=Component C143 100n
+Added Member To Class: ClassName=AnalogFrontend Member=Component C144 470p
+Added Member To Class: ClassName=AnalogFrontend Member=Component C147 100n

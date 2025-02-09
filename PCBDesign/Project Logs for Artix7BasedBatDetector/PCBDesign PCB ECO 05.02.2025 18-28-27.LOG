@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=ULPI_NXT Pin=IC4-G17
+Added Pin To Net: NetName=ULPI_NXT Pin=IC4-G18

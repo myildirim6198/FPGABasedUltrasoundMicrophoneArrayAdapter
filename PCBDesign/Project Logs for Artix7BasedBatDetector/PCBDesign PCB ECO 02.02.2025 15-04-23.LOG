@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=NetC99_2 New Net Name=+3V3_ULPI_CLK
+Added Member To Class: ClassName=USBULPI Member=Component R36 22R
+Added Member To Class: ClassName=FPGABank3X Member=Component R37 22R
+Added Member To Class: ClassName=FPGABank3X Member=Component R38 22R
+Added Rule: Name=Schematic Supply Nets_11

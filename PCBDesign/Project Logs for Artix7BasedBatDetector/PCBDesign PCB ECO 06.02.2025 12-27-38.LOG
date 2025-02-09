@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DDR2_BA2 Pin=IC4-H1
+Removed Pin From Net: NetName=DDR2_BA0 Pin=IC4-H2
+Added Pin To Net: NetName=DDR2_BA2 Pin=IC4-J2
+Added Pin To Net: NetName=DDR2_BA0 Pin=IC4-J3

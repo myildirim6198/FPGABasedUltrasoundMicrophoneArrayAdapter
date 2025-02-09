@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=+3V3 Pin=IC4-K4
+Removed Pin From Net: NetName=+3V3 Pin=IC4-N3
+Removed Pin From Net: NetName=+3V3 Pin=IC4-P6
+Removed Pin From Net: NetName=+3V3 Pin=IC4-T2
+Removed Pin From Net: NetName=+3V3 Pin=IC4-U5
+Removed Pin From Net: NetName=+3V3 Pin=IC4-V8
+Removed Member From Class: ClassName=AnalogFrontend Member=R43
+Added Pin To Net: NetName=+1V8 Pin=IC4-K4
+Added Pin To Net: NetName=+1V8 Pin=IC4-N3
+Added Pin To Net: NetName=+1V8 Pin=IC4-P6
+Added Pin To Net: NetName=+1V8 Pin=IC4-T2
+Added Pin To Net: NetName=+1V8 Pin=IC4-U5
+Added Pin To Net: NetName=+1V8 Pin=IC4-V8
+Added Member To Class: ClassName=FPGAConfig Member=Component R16 4k7
+Added Member To Class: ClassName=FPGAConfig Member=Component R18 4k7
+Added Member To Class: ClassName=FPGAConfig Member=Component R20 4k7
+Added Member To Class: ClassName=FTDIJtagConversion Member=Component R22 5k1
+Added Member To Class: ClassName=FTDIJtagConversion Member=Component R24 22R
+Added Member To Class: ClassName=FTDIJtagConversion Member=Component R26 22R
+Added Member To Class: ClassName=FTDIJtagConversion Member=Component R28 4k7
+Added Member To Class: ClassName=FTDIJtagConversion Member=Component R30 2k2
+Added Member To Class: ClassName=USBULPI Member=Component R32 100k
+Added Member To Class: ClassName=USBULPI Member=Component R34 5k1
+Added Member To Class: ClassName=USBULPI Member=Component R36 22R
+Added Member To Class: ClassName=FPGABank3X Member=Component R38 22R
+Added Member To Class: ClassName=DDR2Module Member=Component R40 10k
+Added Member To Class: ClassName=DDR2Module Member=Component R42 4k7
+Added Member To Class: ClassName=AnalogFrontend Member=Component R44 4k7
+Added Member To Class: ClassName=AnalogFrontend Member=Component R46 1k
+Added Member To Class: ClassName=AnalogFrontend Member=Component R48 1Meg
+Added Member To Class: ClassName=AnalogFrontend Member=Component R50 1k5
+Added Member To Class: ClassName=AnalogFrontend Member=Component R52 4k7
+Added Member To Class: ClassName=AnalogFrontend Member=Component R54 1k
+Added Member To Class: ClassName=AnalogFrontend Member=Component R57 1Meg
+Added Member To Class: ClassName=AnalogFrontend Member=Component R60 10k
