@@ -8,7 +8,7 @@ This is a small farewell project to my [Ultrasound Microphone Array Adapter](htt
 - External memory: 125 MByte DDR2 RAM, 16 MByte QSPI Flash
 - Digital Connections: 1x USB-C for programming and debugging, 1x USB-C up to 480 MBit/s for transfering data
 - ADC: TAA3020 2 Channel Audio-ADC up to 768 kHz sampling Frequency
-- Pre-amplifier stage: 21 dB
+- Pre-amplifier stage: 36 dB
 - Microphones: 2x STMicroelectronics IMP23ABSUTR 2.2 mm gap to each other
 
 # Applications:
@@ -23,11 +23,11 @@ This is a small farewell project to my [Ultrasound Microphone Array Adapter](htt
 
 # Manufacturing Information
 
-- Length = 50mm, Width = 50mm, Thickness = 1.6 mm
+- Length = 50mm, Width = 50mm, Thickness = 1.2 mm
 - Layers = 8
 - Min. Via Hole diameter = 0.3 mm
 - Via-Type: Epoxy Filled and Capped
-- Impedance Control: JLC08161H-2116
+- Impedance Control: JLC08121H-3313
 - Surface Finish: ENIG
 - Material Type: FR-4 TG155
 
