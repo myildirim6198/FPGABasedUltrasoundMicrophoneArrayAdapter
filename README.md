@@ -1,4 +1,4 @@
-# Artix 7 based ultrasound microphone Adapter 
+# Artix 7 based ultrasound microphone array Adapter 
 
 This is a small farewell project to my [Ultrasound Microphone Array Adapter](https://github.com/myildirim6198/UltrasoundMicrophoneArrayAdapterBAT) thesis project. To support a higher frequency bandwidth with high dynamic range an fpga is used.
 
